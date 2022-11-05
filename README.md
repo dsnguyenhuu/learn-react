@@ -1,3 +1,7 @@
+# Intro
+
+This repository follows a React tutorial
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
